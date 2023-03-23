@@ -1,0 +1,122 @@
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Entities.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Entities.pdb
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\DAL.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Model.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Security.AccessControl.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Security.Permissions.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\DAL.pdb
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\DAL.dll.config
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Model.pdb
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Security.Permissions.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\obj\Debug\Entities.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\obj\Debug\Entities.pdb
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Cosmos.CRTCompat.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\msvcp140.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\vcruntime140.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\vcruntime140_1.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Entities.dll.config
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Azure.Core.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Buffers.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Collections.Immutable.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Memory.Data.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Memory.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Text.Json.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.ValueTuple.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Azure.Core.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Azure.Cosmos.Client.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Buffers.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Collections.Immutable.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Memory.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Memory.Data.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Text.Json.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Entities\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Cosmos.CRTCompat.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\msvcp140.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\vcruntime140.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\vcruntime140_1.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Entities.dll.config
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Entities.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Entities.pdb
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Azure.Core.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\DAL.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Model.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Buffers.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Memory.Data.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Memory.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Text.Json.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\DAL.pdb
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\DAL.dll.config
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Model.pdb
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Azure.Core.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Azure.Cosmos.Client.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Buffers.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Memory.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Memory.Data.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Text.Json.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\obj\Debug\Entities.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Entities\obj\Debug\Entities.pdb

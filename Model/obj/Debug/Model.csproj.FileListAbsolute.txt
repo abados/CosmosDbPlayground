@@ -1,0 +1,34 @@
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\Model.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\Model.pdb
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\System.Security.AccessControl.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\System.Security.Permissions.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\System.Security.AccessControl.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\System.Security.Permissions.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\obj\Debug\Model.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\obj\Debug\Model.pdb
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sfurl\source\repos\Cosmos_Playground\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\Model.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\Model.pdb
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\obj\Debug\Model.dll
+C:\Users\User\source\Projects\תקופת יזמות\Cosmos_DB_Products\Model\obj\Debug\Model.pdb
